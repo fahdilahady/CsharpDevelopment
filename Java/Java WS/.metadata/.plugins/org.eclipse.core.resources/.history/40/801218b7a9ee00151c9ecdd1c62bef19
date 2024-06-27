@@ -1,0 +1,12 @@
+
+public class VehicleManager {
+
+	/**
+	 * @param args
+	 */
+	public static VehicleManager(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

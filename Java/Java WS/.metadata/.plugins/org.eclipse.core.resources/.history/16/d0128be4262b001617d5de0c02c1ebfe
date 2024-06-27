@@ -1,0 +1,76 @@
+import java.awt.BorderLayout;
+import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
+import javax.swing.JPanel;
+import javax.swing.JSeparator;
+
+
+public class aTransferFormAgent extends JFrame implements ActionListener{ 
+	JPanel pnl = new JPanel();
+	
+	JMenuBar mb = new JMenuBar();
+	JMenu profile = new JMenu("Profile");
+	JMenu trans = new JMenu("Transaction");
+	JMenu manage = new JMenu("Manage");
+	JMenuItem mai = new JMenuItem("My Account Information");
+	JMenuItem logout = new JMenuItem("Logout");
+	JMenuItem exit = new JMenuItem("Exit");
+	JMenu dotrans= new JMenu("Do Transaction");
+	JMenuItem transHist = new JMenuItem("View My Transaction History");
+	JMenuItem member = new JMenuItem("Member");
+	JMenuItem mgtrans = new JMenuItem("Transaction");
+	JMenuItem trf = new JMenuItem("Transfer");
+	JMenuItem deps = new JMenuItem("Deposit");
+
+	public aTransferFormAgent() {
+		profile.add(mai);
+		mai.addActionListener(this);
+		profile.add(new JSeparator());
+		profile.add(logout);
+		logout.addActionListener(this);
+		profile.add(exit);
+		exit.addActionListener(this);
+		trans.add(dotrans);
+		dotrans.addActionListener(this);
+		trans.add(transHist);
+		transHist.addActionListener(this);
+		dotrans.add(trf);
+		trf.addActionListener(this);
+		dotrans.add(deps);
+		deps.addActionListener(this);
+		manage.add(member);
+		member.addActionListener(this);
+		manage.add(mgtrans);
+		mgtrans.addActionListener(this);
+		mb.add(profile);
+		mb.add(trans);
+		mb.add(manage);
+		add(mb, BorderLayout.NORTH);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setExtendedState(MAXIMIZED_BOTH);
+		setVisible(true);
+		
+	}
+public static void main(String[] args) {
+		new aHomeFormAgent
+		();
+	}
+
+
+@Override
+public void actionPerformed(ActionEvent e) {
+	if(e.getSource()==exit){
+		System.exit(0);
+	}
+	//lanjutin disini
+	
+}
+
+}

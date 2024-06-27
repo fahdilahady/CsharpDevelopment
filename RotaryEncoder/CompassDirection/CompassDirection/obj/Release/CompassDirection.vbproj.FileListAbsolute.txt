@@ -1,0 +1,16 @@
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\le\CompassDirection.dll
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\be\CompassDirection.dll
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\le\CompassDirection.pdb
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\be\CompassDirection.pdb
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\CompassDirection.dll
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\CompassDirection.pdb
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\le\CompassDirection.pe
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\le\CompassDirection.pdbx
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\be\CompassDirection.pe
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\bin\Release\be\CompassDirection.pdbx
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\obj\Release\be\CompassDirection.pe
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\obj\Release\be\CompassDirection.pdbx
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\obj\Release\le\CompassDirection.pe
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\obj\Release\le\CompassDirection.pdbx
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\obj\Release\CompassDirection.dll
+D:\2. Development\Netduino\Software Development\RotaryEncoder\CompassDirection\CompassDirection\obj\Release\CompassDirection.pdb

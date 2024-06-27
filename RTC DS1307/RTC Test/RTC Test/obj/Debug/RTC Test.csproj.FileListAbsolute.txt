@@ -1,0 +1,71 @@
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.exe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.exe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.pdb
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.pdb
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\RTC Test.exe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\RTC Test.pdb
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.dll
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\TinyCLR_DebugReferences.cache
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\be\RTC Test.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\be\RTC Test.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\le\RTC Test.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\le\RTC Test.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\RTC Test.exe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\RTC Test.pdb
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\RTC Test.csprojResolveAssemblyReference.cache
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\MicroLiquidCrystal.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\MicroLiquidCrystal.pe
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\MicroLiquidCrystal.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\MicroLiquidCrystal.pdbx
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\MicroLiquidCrystal.pdb
+D:\2. Development\Netduino\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\MicroLiquidCrystal.dll
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.exe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.exe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.pdb
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.pdb
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\RTC Test.exe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\RTC Test.pdb
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\le\RTC Test.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\be\RTC Test.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\MicroLiquidCrystal.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\MicroLiquidCrystal.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\MicroLiquidCrystal.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\MicroLiquidCrystal.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.dll
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\MicroLiquidCrystal.pdb
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\RTC Test.csprojResolveAssemblyReference.cache
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\TinyCLR_DebugReferences.cache
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\be\RTC Test.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\be\RTC Test.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\le\RTC Test.pe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\le\RTC Test.pdbx
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\RTC Test.exe
+D:\1. Documents\Fahdil\Dropbox\Software Development\RTC DS1307\RTC Test\RTC Test\obj\Debug\RTC Test.pdb

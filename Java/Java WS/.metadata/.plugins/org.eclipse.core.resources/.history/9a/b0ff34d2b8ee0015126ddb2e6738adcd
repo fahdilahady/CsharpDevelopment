@@ -1,0 +1,4 @@
+
+public class aTruck extends aVehicle {
+
+}

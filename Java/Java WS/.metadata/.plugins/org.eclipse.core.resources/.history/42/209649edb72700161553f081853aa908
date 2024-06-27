@@ -1,0 +1,46 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.GridLayout;
+import java.awt.BorderLayout;
+public class LoginAgent extends JFrame implements ActionListener{
+	/**
+	 * 
+	 */
+
+	JButton LoginBtn, CancelBtn, RegBtn;
+	JTextField UserName, Password;
+	private static final long serialVersionUID = 1L;
+
+	public LoginAgent(){
+		LoginBtn = new JButton("Login");
+		UserName = new JTextField(10);
+		UserName.setPreferredSize(new Dimension(200,24) );
+		Password = new JPasswordField(8);
+		CancelBtn =new JButton("Cancel") ;
+		RegBtn =new JButton("Register");
+		setLayout (new GridLayout(3, 3, 5, 4));
+		add(new JLabel("MemberID"));
+		add(UserName);
+		add(new JLabel("PIN"));  
+		add(Password);
+		add(LoginBtn,BorderLayout.SOUTH);
+		add(CancelBtn,BorderLayout.SOUTH);
+		add(RegBtn,BorderLayout.SOUTH);
+		
+		LoginBtn.addActionListener(this);CancelBtn.addActionListener(this);RegBtn.addActionListener(this);
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		if(e.getSource() == LoginBtn){
+			JOptionPane.showMessageDialog(null, "OK");
+			
+		}else if (e.getSource() == CancelBtn){
+			JOptionPane.showMessageDialog(null, "bodo");
+		}
+	}
+
+	
+}
+

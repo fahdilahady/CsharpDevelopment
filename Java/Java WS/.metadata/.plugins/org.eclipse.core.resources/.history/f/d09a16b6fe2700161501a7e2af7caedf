@@ -1,0 +1,56 @@
+import javax.swing.*;
+
+import java.awt.BorderLayout;
+import java.awt.GridLayout;
+import java.awt.event.*;
+
+public class aRegisterFormAgent extends JFrame implements ActionListener{
+	//import java.awt.GridLayout;
+	//import java.awt.BorderLayout;
+
+	/** this is form agent to create a user account into application and database
+	 * 
+	 */
+	JTextField MemberIDInput, UserNameInput, PasswordInput, HomeAddressInput,AccountNumberInput,  BalanceInpute; 
+	JLabel TitleLbl, MemberIDLbl, NameLbl, PinLbl , AddressLbl,  AccountNumberLbl, BalanceLbl, DateOfBirthLbl, GenderLbl;
+	
+	
+	
+	JRadioButton GenderOpt;
+	///JComboBox<E>
+	JButton OkBtn, ResetBtn, Cancel;
+	
+	private static final long serialVersionUID = 3380567188327594568L;
+	
+	protected void initAgents(){
+		//Buttons Initiate
+		OkBtn = new JButton(); ResetBtn =new JButton(); Cancel =new JButton();
+		//TextField Initiate
+		MemberIDInput = new JTextField(); UserNameInput= new JTextField(); PasswordInput= new JTextField();HomeAddressInput= new JTextField();AccountNumberInput= new JTextField();  BalanceInpute= new JTextField();
+		//Labels Initiate
+		TitleLbl =new JLabel("Register");
+		MemberIDLbl=new JLabel("Member ID");
+		NameLbl=new JLabel("Name");
+		PinLbl =new JLabel("Pin");AddressLbl=new JLabel("Address");AccountNumberLbl=new JLabel("AccountNumber");
+		BalanceLbl=new JLabel("Balance");DateOfBirthLbl=new JLabel("Date Of Birth");GenderLbl=new JLabel("Gender");
+	}
+	protected void placeAgents() {
+		setLayout (new GridLayout(9, 2, 5, 4));	
+		add(UserName);
+		add(new JLabel("Password"));  
+		add(Password);
+		add(RegBtn,BorderLayout.SOUTH);
+		add(LoginBtn,BorderLayout.SOUTH);
+	}
+	
+	public aRegisterFormAgent() {
+		// TODO Auto-generated constructor stub
+		initAgents(); placeAgents();
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+}

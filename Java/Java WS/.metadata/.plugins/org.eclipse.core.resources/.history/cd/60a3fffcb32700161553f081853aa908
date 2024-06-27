@@ -1,0 +1,39 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.GridLayout;
+import java.awt.BorderLayout;
+public class LoginAgent extends JFrame implements ActionListener{
+	/**
+	 * 
+	 */
+
+	JButton LoginBtn, CancelBtn;
+	JTextField UserName, Password;
+	private static final long serialVersionUID = 1L;
+
+	public LoginAgent(){
+		LoginBtn = new JButton("Login");
+		UserName = new JTextField(8);
+		Password = new JPasswordField(8);
+		setLayout (new GridLayout(3, 2, 5, 4));
+		add(new JLabel("MemberID"));
+		add(UserName);
+		add(new JLabel("PIN"));  
+		add(Password);
+		add(LoginBtn,BorderLayout.SOUTH);
+		add(new JButton("Cancel"),BorderLayout.SOUTH);
+		
+		
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		if(e.getSource() == LoginBtn){
+			JOptionPane.showMessageDialog(null, "OK");
+		}
+	}
+
+	
+}
+

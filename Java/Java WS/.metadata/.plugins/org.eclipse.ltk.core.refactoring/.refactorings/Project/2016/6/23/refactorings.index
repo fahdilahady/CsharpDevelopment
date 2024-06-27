@@ -1,0 +1,9 @@
+1464752180657	Delete element
+1464752206788	Rename type 'login'
+1464783267469	Rename type 'LoginAgent'
+1464783485755	Delete element
+1464786070142	Rename method 'initDisplay'
+1464788429651	Rename field 'PasswordInput'
+1464796341361	Rename field 'CmbPnl'
+1464796942234	Convert local variable 'cbDate' to field
+1464800291907	Rename field 'BalanceInpute'

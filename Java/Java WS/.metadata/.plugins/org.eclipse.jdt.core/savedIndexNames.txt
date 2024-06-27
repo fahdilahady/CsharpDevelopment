@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+D:\1. Documents\Fahdil\Dropbox\Software Development\Java\Java WS\.metadata\.plugins\org.eclipse.jdt.core
+991894207.index
+480723336.index
+843165993.index
+449384428.index
+1433528205.index

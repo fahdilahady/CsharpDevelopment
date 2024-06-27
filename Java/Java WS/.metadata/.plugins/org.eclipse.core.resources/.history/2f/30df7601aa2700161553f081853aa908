@@ -1,0 +1,26 @@
+import javax.swing.JFrame;
+
+/**
+ * 
+ */
+
+/**
+ * @author Fahdil_Ahady
+ *
+ */
+public class aLoginAgent {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		login frm = new login ();
+		frm.setTitle("LOG IN");
+		frm.setSize(250, 125);
+		frm.setLocationRelativeTo(null);
+		frm.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
+		frm.setVisible(true);
+	}
+
+}

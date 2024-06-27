@@ -1,0 +1,21 @@
+import javax.swing.JFrame;
+
+/**
+ * 
+ */
+
+/**
+ * @author Fahdil_Ahady
+ *
+ */
+public class aLoginAgent {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

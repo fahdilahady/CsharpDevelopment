@@ -1,0 +1,85 @@
+import java.util.Scanner;
+public class aVehicleManager {
+
+	/**
+	 * @param args
+	 */
+	static aPersonAsUser CurrentUser;
+	static Scanner myScanner;
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name="";
+		int ID=0;
+		int selectedMenu=0;
+		aVehicle CurVehicle;
+		if (myScanner == null){
+			myScanner  = new Scanner(System.in);
+		} 
+		
+		if (CurrentUser == null){
+			name = GetUserName();
+			ID =(int)(Math.random()*1000);
+			CurVehicle = GetVehicle();
+			CurrentUser = new aPersonAsUser(name,ID,CurVehicle);
+		}
+		selectedMenu= GetSelectedMenu();
+		
+		switch (selectedMenu)
+		{
+		case 1: 
+			
+		}
+	
+	}
+	
+	private static aVehicle GetVehicle(){
+		aVehicle curVehicle = new aVehicle();
+		
+		do{
+		System.out.println("input your vehicle [Car | Truck]");
+		curVehicle.Type= myScanner.nextLine();
+		}while (curVehicle.Type!="Car"||curVehicle.Type!="Truck");
+		
+		return curVehicle;
+		
+	}
+	
+	private static String Menus(int byIndex){
+		switch (byIndex){
+			case 1: return "Drive";
+			case 2: return "Refill gas";
+			case 3: return "Check vehicle";
+			case 4: return "Change vehicle";
+			default : return "Invalid options";
+		}
+	}
+
+	private static int GetSelectedMenu(){
+		System.out.println("Welcome, "+CurrentUser.Name);
+		
+		System.out.println("1. " + Menus(1));
+		System.out.println("2. " + Menus(2));
+		System.out.println("3. " + Menus(3));
+		System.out.println("4. " + Menus(4));
+		System.out.println("5. Exit");
+		return myScanner.nextInt();
+
+	}
+	
+	public static String GetUserName(){
+		String Name;
+		
+		System.out.println("Welcome,");
+		do{
+		System.out.print("Please enter your name [5 - 25 chars]: ");
+		Name = myScanner.nextLine();
+		}
+		while(Name.length() < 5 || Name.length() > 25);
+
+		return Name;
+
+	}
+	
+}

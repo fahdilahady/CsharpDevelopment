@@ -1,0 +1,10 @@
+
+public class aPersonAsUser {
+	String Name;
+	int Id;
+	
+	//Constructor
+	public aPersonAsUser(){
+		
+	}
+}

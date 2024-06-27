@@ -1,0 +1,34 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.GridLayout;
+import java.awt.BorderLayout;
+
+public class aRegisterFormAgent extends JFrame implements ActionListener{
+
+	/** this is form agent to create a user account into application and database
+	 * 
+	 */
+	JTextField MemberIDInput, UserNameInput, PasswordInput, HomeAddressInput,AccountNumberInput,  BalanceInpute; 
+	
+	JLabel TitleLbl, MemberIDLbl, NameLbl, PasswordLbl , AddressLbl,  AccountNumberLbl, BalanceLbl, DateOfBirthLbl, GenderLbl;
+	
+	
+	JRadioButton GenderOpt;
+	JComboBox DateOfBirth;
+
+	
+	JButton OkBtn, Cancel;
+	private static final long serialVersionUID = 3380567188327594568L;
+	public aRegisterFormAgent() {
+		// TODO Auto-generated constructor stub
+		initDisplay();
+	}
+	protected void initDisplay(){
+		
+	}
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+}

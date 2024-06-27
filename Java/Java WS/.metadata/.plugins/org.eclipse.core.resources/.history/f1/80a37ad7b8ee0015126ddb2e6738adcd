@@ -1,0 +1,11 @@
+
+public class aPersonAsUser {
+	String Name;
+	int Id;
+	
+	//Constructor
+	public aPersonAsUser(String UserName, int CurId){
+		Name = UserName;
+		Id = CurId;
+	}
+}

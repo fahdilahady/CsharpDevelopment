@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AwsClasses.Analog">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIAAEIACgAIgAQAAACAAAAAAQAIAAAA=</HashCode>
+      <FileName>Analog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.AnalogSensor">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgACAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnalogSensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Digital">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Digital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Encoder">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAQAQQBAAAAAAAIAQAAAAiECEAAAAAEAAABAA=</HashCode>
+      <FileName>Encoder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.RainRecorder">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAIABAAAAAAAAAQAAAAgQCAAAAAAAAAAEAA=</HashCode>
+      <FileName>RainRecorder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Sensors" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAgACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sensors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.WindVane">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAABAAAAAACAAAAAAAAAAAIA=</HashCode>
+      <FileName>WindVane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Tools.GSM_modem">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAQQMAAQEAABIggAQQiEACoAAQA0JAAAEEhAA=</HashCode>
+      <FileName>Tools\GSM_modem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Tools.IC_4017">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgQAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAARAA=</HashCode>
+      <FileName>Tools\IC_4017.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Tools.myRTC">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAEAAAAAAAAAAAQAAAAAAAACAAAABAA=</HashCode>
+      <FileName>Tools\myRTC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Tools.SD_card">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEAAAAEAIAAAAACAAAQAAAAAAAAAAAAABgA=</HashCode>
+      <FileName>Tools\SD_card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Tools.SD_Log">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEiAAAAAABAACAAAAAAAAAgABAIAQAIEAAAAAEAACg=</HashCode>
+      <FileName>Tools\SD_Log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwsClasses.Tools.Tools" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Tools\Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

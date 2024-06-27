@@ -1,0 +1,30 @@
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\le\Netduino Test.exe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\be\Netduino Test.exe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\le\Netduino Test.pdb
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\be\Netduino Test.pdb
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\Netduino Test.exe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\Netduino Test.pdb
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\le\Netduino Test.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\le\Netduino Test.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\be\Netduino Test.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\be\Netduino Test.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\SecretLabs.NETMF.Hardware.dll
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\TinyCLR_DebugReferences.cache
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\be\Netduino Test.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\be\Netduino Test.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\le\Netduino Test.pe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\le\Netduino Test.pdbx
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\Netduino Test.exe
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\Netduino Test.pdb
+D:\2. Development\Netduino\Software Development\Netduino Test\Netduino Test\obj\Debug\Netduino Test.csprojResolveAssemblyReference.cache

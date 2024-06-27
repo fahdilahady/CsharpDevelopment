@@ -1,0 +1,57 @@
+import javax.swing.*;
+
+import java.awt.event.*;
+import java.awt.GridLayout;
+import java.awt.BorderLayout;
+public class aLoginAgent extends JFrame implements ActionListener{
+	/**
+	 * 
+	 */
+
+	JButton LoginBtn, CancelBtn, RegBtn;
+	JTextField UserName, Password;
+	private static final long serialVersionUID = 1L;
+
+	public aLoginAgent(){
+		LoginBtn = new JButton("Login");
+		//CancelBtn =new JButton("Cancel") ;
+		RegBtn =new JButton("Register");
+		
+		UserName = new JTextField(10);
+		Password = new JPasswordField(8);
+		
+		setLayout (new GridLayout(3, 3, 5, 4));
+		add(new JLabel("User Name"));
+		add(UserName);
+		add(new JLabel("Password"));  
+		add(Password);
+		add(RegBtn,BorderLayout.SOUTH);
+		add(LoginBtn,BorderLayout.SOUTH);
+		//add(CancelBtn,BorderLayout.SOUTH);
+		
+		
+		LoginBtn.addActionListener(this);RegBtn.addActionListener(this);
+	}
+	protected void registerNewMember() {
+		aRegisterFormAgent regAgent = new aRegisterFormAgent();
+		regAgent.setTitle("Register");
+		regAgent.setSize(450, 600);
+		regAgent.setLocationRelativeTo(null);
+		regAgent.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
+		//regAgent.setVisible(true);
+    }
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		if(e.getSource() == LoginBtn){
+			JOptionPane.showMessageDialog(null, "OK");
+			
+		}else if (e.getSource() == RegBtn){
+			//JOptionPane.showMessageDialog(null, "bodo");
+			registerNewMember();
+		}
+	}
+
+	
+}
+

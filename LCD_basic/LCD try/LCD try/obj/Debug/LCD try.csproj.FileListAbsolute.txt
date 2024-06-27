@@ -1,0 +1,35 @@
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\le\LCD try.exe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\be\LCD try.exe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\le\LCD try.pdb
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\be\LCD try.pdb
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LCD try.exe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LCD try.pdb
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\le\LCD try.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\le\LCD try.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\be\LCD try.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\be\LCD try.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LE\MicroLiquidCrystal.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\BE\MicroLiquidCrystal.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LE\MicroLiquidCrystal.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\BE\MicroLiquidCrystal.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\MicroLiquidCrystal.dll
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\MicroLiquidCrystal.pdb
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\obj\Debug\be\LCD try.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\obj\Debug\be\LCD try.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\obj\Debug\le\LCD try.pe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\obj\Debug\le\LCD try.pdbx
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\obj\Debug\LCD try.exe
+C:\Users\Fahdil Ahady Hazain\AppData\Local\Temporary Projects\LCD try\obj\Debug\LCD try.pdb
